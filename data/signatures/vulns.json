@@ -1,0 +1,28 @@
+{
+  "sql_errors": [
+    "you have an error in your sql syntax",
+    "warning: mysql",
+    "unclosed quotation mark",
+    "microsoft ole db provider for odbc drivers error",
+    "supplied argument is not a valid mysql result resource",
+    "function.mysql"
+  ],
+  "xss_reflection": [
+    "<script>",
+    "onerror=",
+    "onload=",
+    "javascript:"
+  ],
+  "lfi_errors": [
+    "root:x:0:0",
+    "[boot loader]",
+    "# localhost"
+  ],
+  "information_disclosure": [
+    "stack trace",
+    "internal server error",
+    "fatal error",
+    "warning: ",
+    "notice: "
+  ]
+}
