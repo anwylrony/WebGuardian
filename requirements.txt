@@ -1,0 +1,11 @@
+# WebGuardian - Python Dependencies
+# Install with: pip3 install -r requirements.txt
+
+# Core library for making HTTP requests
+requests~=2.31.0
+
+# Library for parsing HTML and XML documents
+beautifulsoup4~=4.12.2
+
+# Optional but recommended for faster HTML parsing
+lxml~=4.9.3
